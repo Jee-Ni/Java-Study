@@ -9,6 +9,12 @@ public class IntergerDemo {
 		
 		a = 2;
 		System.out.println(a+1);
+		
+		double b = 1.1; 
+		System.out.println(b+1.1);
+		
+		b = 2.1; 
+		System.out.println(b+1.1);
 
 	}
 
